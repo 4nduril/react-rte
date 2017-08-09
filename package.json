@@ -1,5 +1,5 @@
 {
-  "name": "react-rte",
+  "name": "@4nduril/react-rte",
   "version": "0.14.1",
   "description": "React Rich Text Editor",
   "main": "dist/react-rte.js",
@@ -28,6 +28,7 @@
     "draft-js-import-html": ">=0.4.0",
     "draft-js-import-markdown": ">=0.3.0",
     "draft-js-utils": ">=0.2.0",
+    "extract-text-webpack-plugin": "^3.0.0",
     "immutable": "^3.8.1"
   },
   "peerDependencies": {
